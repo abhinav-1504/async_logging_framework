@@ -1,4 +1,6 @@
-public class Main {
+package main.java.logger;
+
+public class App {
     public static void main(String[] args) {
         System.out.println("Hello");
     }
